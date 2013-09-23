@@ -1,4 +1,0 @@
-Cydia
-=====
-
-Cydia from Saurik
